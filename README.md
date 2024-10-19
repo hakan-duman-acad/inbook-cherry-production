@@ -1,6 +1,6 @@
 # Application of Machine Learning Algorithms for Univariate Time Series Analysis in Agricultural Forecasting: A Case Study of Cherry Production in Turkey
 
-The full text of the chapter related to this study can be accessed via the following link: <https://www.researchgate.net/publication/383025524_Application_Of_Machine_Learning_Algorithms_For_Univariate_Time_Series_Analysis_In_Agricultural_Forecasting_A_Case_Study_Of_Cherry_Production_In_Turkey>
+The full text of the chapter related to this study can be accessed via the following link: [Research Gate Repository](https://www.researchgate.net/publication/383025524_Application_Of_Machine_Learning_Algorithms_For_Univariate_Time_Series_Analysis_In_Agricultural_Forecasting_A_Case_Study_Of_Cherry_Production_In_Turkey)
 
 Please cite this study if you use it in your research as follows:
 
