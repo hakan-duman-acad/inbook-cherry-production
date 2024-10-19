@@ -1,5 +1,11 @@
 # Application of Machine Learning Algorithms for Univariate Time Series Analysis in Agricultural Forecasting: A Case Study of Cherry Production in Turkey
 
+The full text of the chapter related to this study can be accessed via the following link: <https://www.researchgate.net/publication/383025524_Application_Of_Machine_Learning_Algorithms_For_Univariate_Time_Series_Analysis_In_Agricultural_Forecasting_A_Case_Study_Of_Cherry_Production_In_Turkey>
+
+Please cite this study if you use it in your research as follows:
+
+Duman, H. (2024). Application Of Machine Learning Algorithms For Univariate Time Series Analysis In Agricultural Forecasting: A Case Study Of Cherry Production In Turkey. In N. Köleoğlu, Ş. Çelik, & M. Gülşen İrteş (Eds.), Ekonomi̇, Sosyal ve Beşeri̇ Bi̇li̇mlerde İstati̇sti̇ksel Araştırmalar (pp. 163–202). Holistence.
+
 ## Abstract
 
 **Keywords:**
@@ -30,16 +36,16 @@ This analysis adapted and modified code from various sources, such as
 books, package manuals, vignettes, and GitHub repositories. The sources
 are cited as follows:
 
--   Data preparing, manipulation, cleaning, and visualization: Wickham
+- Data preparing, manipulation, cleaning, and visualization: Wickham
     et al. ([2019](#ref-tidyverse-2019)), Wang et al.
     ([2020](#ref-tsibble-2020)), Wang & contibutors
     ([2024](#ref-tsibble-2024-github)),
--   Map Visualization: Massicotte & South
+- Map Visualization: Massicotte & South
     ([2023](#ref-rnaturalearth-2023)), South
     ([2017](#ref-rnaturalearthdata-2017)), Pebesma & Bivand
     ([2005](#ref-rnews-2005)), Bivand et al. ([2013](#ref-asdar-2013)),
     Pebesma & contibutors ([2024](#ref-sf-2024-github))
--   Training and Forecasting Models: Kuhn & Silge
+- Training and Forecasting Models: Kuhn & Silge
     ([2022](#ref-kuhn-2022)), Kuhn & Wickham
     ([2020](#ref-tidymodels-2020)), Kuhn & Wickham
     ([2024](#ref-tidymodels-2024-github)), Dancho & Vaughan
@@ -56,11 +62,11 @@ spatial data analysis with R, second edition*. Springer, NY.
 
 Dancho, M. (2024). *Modeltime: The tidymodels extension for time series
 modeling*. <https://github.com/business-science/modeltime> R package
-version 1.3.0, https://business-science.github.io/modeltime/
+version 1.3.0, <https://business-science.github.io/modeltime/>
 
 Dancho, M., & Vaughan, D. (2024). *Timetk: A tool kit for working with
 time series*. <https://github.com/business-science/timetk> R package
-version 2.9.0, https://business-science.github.io/timetk/
+version 2.9.0, <https://business-science.github.io/timetk/>
 
 Eyduran, E., Ertürk, Y. E., Duman, H., & Aliyev, P. (2020). Examples of
 univariate time series analysis with artificial neural networks in r.
@@ -80,7 +86,7 @@ for modeling and machine learning using tidyverse principles.*
 
 Kuhn, M., & Wickham, H. (2024). *Tidymodels-org*.
 <https://github.com/tidymodels> R package version 1.1.1,
-https://www.tidymodels.org/
+<https://www.tidymodels.org/>
 
 Massicotte, P., & South, A. (2023). *Rnaturalearth: World map data from
 natural earth*. <https://CRAN.R-project.org/package=rnaturalearth> R
