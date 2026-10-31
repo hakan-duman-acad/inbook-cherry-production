@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code or data, please cite the chapter below:
+  Duman, H. (2024). Application of machine learning algorithms for univariate
+  time series analysis in agricultural forecasting: A case study of cherry
+  production in Turkey. In N. Köleoğlu, Ş. Çelik, & M. Gülşen İrteş (Eds.),
+  Ekonomi, sosyal ve beşeri bilimlerde istatistiksel araştırmalar (pp. 163–202).
+  Holistence.
+type: software
+title: "Application of Machine Learning Algorithms for Univariate Time Series Analysis in Agricultural Forecasting: A Case Study of Cherry Production in Turkey: Code and Data"
+authors:
+  - family-names: Duman
+    given-names: Hakan
+    orcid: "https://orcid.org/0000-0001-6166-5776"
+    affiliation: "Iğdır Üniversitesi"
+repository-code: "https://github.com/hakan-duman-acad/inbook-cherry-production"
+license: MIT
+version: "1.0.0"
+date-released: "2024-12-01"
+keywords:
+  - time series forecasting
+  - machine learning
+  - agricultural forecasting
+  - cherry production
+  - Turkey
+  - R
+preferred-citation:
+  type: book
+  title: "Application of machine learning algorithms for univariate time series analysis in agricultural forecasting: A case study of cherry production in Turkey"
+  authors:
+    - family-names: Duman
+      given-names: Hakan
+  collection-title: "Ekonomi, Sosyal ve Beşeri Bilimlerde İstatistiksel Araştırmalar"
+  collection-type: book
+  editors:
+    - family-names: Köleoğlu
+      given-names: N.
+    - family-names: Çelik
+      given-names: Ş.
+    - family-names: İrteş
+      given-names: M. Gülşen
+  publisher:
+    name: "Holistence"
+  start: 163
+  end: 202
+  year: 2024
+  url: "https://www.researchgate.net/publication/383025524_Application_Of_Machine_Learning_Algorithms_For_Univariate_Time_Series_Analysis_In_Agricultural_Forecasting_A_Case_Study_Of_Cherry_Production_In_Turkey?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50Iiwic3ViUGFnZSI6InJlc2VhcmNoIn19"
